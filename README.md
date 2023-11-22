@@ -1,2 +1,2 @@
 # foobar-solution
-Solution set for all problems in foobar
+Problems/Solution set for all problems in the google foobar
